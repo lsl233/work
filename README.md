@@ -3,4 +3,4 @@
 * 项目技术：html +css3+Jquery +jquery mobile+nodeJS+mysql
 * 项目描述：该项目的页面制作由我一人完成，并且参与了后台工作
 * 项目截图：<br/>
-![](https://github.com/lsl233/work/edit/master/img/iphone.png)  
+![](https://github.com/lsl233/work/tree/master/img/iphone.png)  
