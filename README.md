@@ -5,5 +5,5 @@
 * 项目截图：<br/>
 
 > https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
-![](https://github.com/lsl233/work/raw/master/img/ph1.jpg)  
-![](https://github.com/lsl233/work/raw/master/img/ph2.png)  
+![新媒体技术网站](https://github.com/lsl233/work/raw/master/img/ph1.jpg "新媒体技术网站")  
+![新媒体技术网站](https://github.com/lsl233/work/raw/master/img/ph2.png "新媒体技术网站")  
