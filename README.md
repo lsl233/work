@@ -12,7 +12,7 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 
 ### 婚纱摄影官方网站
 * 项目技术：html +css3+Jquery +jquery mobile+nodeJS+mysql
-* 项目描述：
+* 项目描述：该项目中，我主要负责该项目的页面设计和静态页面的制作，并且参与后台部分功能的实现。
 * 项目截图：<br/>
 
 ![婚纱摄影](https://github.com/lsl233/work/raw/master/img/hs1.png "婚纱摄影")  
@@ -22,7 +22,7 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 
 ### 餐厅官网
 * 项目技术：html +css3+Jquery +jquery mobile+nodeJS+mysql
-* 项目描述：
+* 项目描述：该项目中，我主要负责该项目的页面设计和静态页面的制作，并且参与后台部分功能的实现。
 * 项目截图：<br/>
 
 ![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct1.png "餐厅官网")  
