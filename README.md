@@ -23,11 +23,21 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 ![婚纱摄影](https://github.com/lsl233/work/raw/master/img/hs4.png "婚纱摄影")
 
 ### 中药材全产业链保真第三方服务平台
-* 项目描述：项目描述：该项目兼容了PC端与手机端，主要为中药材行业提供一个查询、交易及动态发布平台的。包含了关于企业的介绍、7s溯源的介绍、每样产品整个生产销售链的查询、客户留言、中药行业时事新闻等功能，主要基于bootstrap框架开发，css3以及bootstrap全局css布局和样式美化。动效使用了bootstrap的Javascript插件，服务器采用了node.js配合express，数据库使用了mysql，并运用ajax技术对页面实现动态加载。本人在项目中负责页面的设计、静态页面的实现、以及部分服务器功能的实现。
+* 项目描述：该项目兼容了PC端与手机端，主要为中药材行业提供一个查询、交易及动态发布平台的。包含了关于企业的介绍、7s溯源的介绍、每样产品整个生产销售链的查询、客户留言、中药行业时事新闻等功能，主要基于bootstrap框架开发，css3以及bootstrap全局css布局和样式美化。动效使用了bootstrap的Javascript插件，服务器采用了node.js配合express，数据库使用了mysql，并运用ajax技术对页面实现动态加载。本人在项目中负责页面的设计、静态页面的实现、以及部分服务器功能的实现。
 \<br>
 * 项目截图：
 \<br>
 ![中药材全产业链保真第三方服务平台](https://github.com/lsl233/work/raw/master/img/hy1.gif "中药材全产业链保真第三方服务平台")
 ![中药材全产业链保真第三方服务平台](https://github.com/lsl233/work/raw/master/img/hy2.png "中药材全产业链保真第三方服务平台")
-![中药材全产业链保真第三方服务平台](https://github.com/lsl233/work/raw/master/img/hy3.png "中药材全产业链保真第三方服务平台")  
+![中药材全产业链保真第三方服务平台](https://github.com/lsl233/work/raw/master/img/hy3.png "中药材全产业链保真第三方服务平台")
+
+### 餐厅官网
+* 项目描述：
+\<br>
+* 项目截图：
+\<br>
+![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct1.png "餐厅官网")
+![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct2.png "餐厅官网")
+![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct3.png "餐厅官网")
+![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct4.png "餐厅官网")
 
