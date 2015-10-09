@@ -25,12 +25,11 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 
 
 ### 餐厅官网
-* 项目描述：
+* 项目描述：该项目是是一个餐厅官网，展示餐厅环境和形象，该项目中包含：登陆/注册，购物车，个人中心，产品展示，关于我们，项目中采用html+css完成页面布局，js完成动效实现，数据库采用速度快，体积小，成本低的mysql，服务器采用node.js完成页面数据交互和动态加载。
 
 * 项目截图：
 
 ![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct1.png "餐厅官网")
 ![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct2.png "餐厅官网")
-![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct3.png "餐厅官网")
-![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct4.png "餐厅官网")
+
 
