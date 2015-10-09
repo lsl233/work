@@ -5,8 +5,6 @@
 
 * 项目截图：
 
-
-https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 ![新媒体技术网站](https://github.com/lsl233/work/raw/master/img/ph1.jpg "新媒体技术网站")  
 ![新媒体技术网站](https://github.com/lsl233/work/raw/master/img/ph2.png "新媒体技术网站")
 ![新媒体技术网站](https://github.com/lsl233/work/raw/master/img/ph3.png "新媒体技术网站")
@@ -30,6 +28,5 @@ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放
 * 项目截图：
 
 ![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct1.png "餐厅官网")
-![餐厅官网](https://github.com/lsl233/work/raw/master/img/ct2.png "餐厅官网")
 
 
